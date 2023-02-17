@@ -1,2 +1,3 @@
 # Lune-Required-Files
-Repository containing all the files users require for Lune
+Current Files:
+- Priorities File (mods.settings) for dealing with all non-script conflicts
